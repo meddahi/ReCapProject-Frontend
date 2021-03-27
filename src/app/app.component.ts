@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ReCapProject-Frontend';
-  user:string ="Meddahi Kardeş";
+  
 }
